@@ -1,0 +1,11 @@
+//git ignore for laravel application
+/vendor
+/node_modules
+/public/storage
+/public/hot
+/public/css/app.css
+/public/js/app.js
+/public/mix-manifest.json
+/public/build
+/.env
+/.env.example
